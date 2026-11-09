@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    border-top: 5px solid #31b3b7;
+    font-family: Arial, sans-serif;}
+.container {
+    width: 72%;
+    max-width: 944px;
+    margin: 71px auto 0;
+    border-top: 5px solid #333333;
+    padding: 10px 6px;
+    box-sizing: border-box;}
+h2 {
+    font-family: "Times New Roman", serif;
+    font-size: 24px;
+    color: orangered;
+    margin: 0 0 14px 0;}
+.link-merah a {
+    color: red;}
+  .link-ungu a {
+    color: purple;}
+     ul {
+    margin-top: 0;
+    margin-bottom: 12px;} 
+    ol {
+    margin-top: 0;
+    margin-bottom: 12px;}
+.klik {
+    font-size: 13px;
+    margin: 0 0 14px 0;}
+    .klik a {
+    color: purple;}
+    h3 {
+    font-family: "Times New Roman", serif;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: normal;
+    color: orangered;
+    margin: 0 0 14px 0;}
+    .paragraf-hijau {
+    color: darkgreen;
+    font-size: 13px;
+    line-height: 15px;
+    margin: 0 0 12px 0;}
+    .paragraf-merah {
+    color: red;
+    font-size: 13px;
+    line-height: 15px;
+    margin: 0;}
